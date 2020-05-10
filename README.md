@@ -40,9 +40,11 @@ train/
 
 
 val/
+
     class1/
         img2.jpg
         ...
+        
     class2/
         imgb.jpg
         ...
